@@ -1,0 +1,11 @@
+{
+  "nome": "William Alves de Medeiros",
+  "idade": 40,
+  "cidade": "Brasilia - DF",
+  "emails": ["flutist.will@gmail.com", "william.medeiros@cs.cruzeirodosul.com"],
+  "telefones": {
+    "comercial": "(61) 3216-3842",
+    "celular": "(61) 99460-6243"
+  },
+  "profissao": "Tecnólogo em Redes"
+}
